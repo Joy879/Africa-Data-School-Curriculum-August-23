@@ -1,4 +1,4 @@
-## Find links my REPL links as listed below:
+## Find my REPL links as listed below:
 * [Python Basic Syntax](https://replit.com/@shaywanjiru/Python-basics)
 * [Data Structures Intro](https://replit.com/@shaywanjiru/DataStructures)
 
