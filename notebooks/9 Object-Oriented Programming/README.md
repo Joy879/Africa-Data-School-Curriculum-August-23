@@ -1,7 +1,7 @@
 ## Object Oriented Programming in Python
 
 #### Useful resources
-* [My REPL](https://replit.com/@shaywanjiru/OOP#main.py)
+* [My REPL](https://replit.com/@shaywanjiru/FileIOOOP#main.py)
 * https://realpython.com/python3-object-oriented-programming/
 * https://www.programiz.com/python-programming/object-oriented-programming
 
